@@ -95,4 +95,4 @@ Feel free to reach out for improvements, suggestions, or collaborations.
 ## 🔗 Some Usefull links
 - BookingForm.html
 - CRM.xlsx
-- Code.gs {https://github.com/Satanand-Ken/GsheetCRM/blob/main/Code.gs}
+- Code.gs (https://github.com/Satanand-Ken/GsheetCRM/blob/main/Code.gs)
