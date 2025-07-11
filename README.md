@@ -110,5 +110,5 @@ Feel free to reach out for improvements, suggestions, or collaborations.
   - At the top of table you can the the total complaint resolved and pending complaints.
 
 <img width="1850" height="795" alt="image" src="https://github.com/user-attachments/assets/1d688c0d-b048-497b-ae3e-03998a13b549" />
-### Read at below sentence ⬇️
+### Read at below sentence ⬇️    
 `There is a lot of feature which i am going to add in this project and you can also suggest me what i can add in this`
