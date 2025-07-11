@@ -93,6 +93,6 @@ All fields are captured and passed as a JavaScript object using `google.script.r
 Feel free to reach out for improvements, suggestions, or collaborations.
 
 ## 🔗 Some Usefull links
-- BookingForm.html
-- CRM.xlsx
-- Code.gs (https://github.com/Satanand-Ken/GsheetCRM/blob/main/Code.gs)
+- [BookingForm.html](https://github.com/Satanand-Ken/GsheetCRM/blob/main/BookingForm.html)
+- [CRM.xlsx](https://github.com/Satanand-Ken/GsheetCRM/blob/main/CRM.xlsx)
+- [Code.gs](https://github.com/Satanand-Ken/GsheetCRM/blob/main/Code.gs)
