@@ -88,8 +88,8 @@ All fields are captured and passed as a JavaScript object using `google.script.r
 
 ## 📞 Contact
 
-**Developer:** Satanand
-**Email:** satanand74@gmail.com
+**Developer:** Satanand    
+**Email:** satanand74@gmail.com   
 Feel free to reach out for improvements, suggestions, or collaborations.
 
 ## 🔗 Some Usefull links
