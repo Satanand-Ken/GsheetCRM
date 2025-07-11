@@ -108,7 +108,8 @@ Feel free to reach out for improvements, suggestions, or collaborations.
 2. Home Page
   - Used some KPIs to ditect duplicate entries.
   - At the top of table you can the the total complaint resolved and pending complaints.
-
+  - I added some time delay band formating which indicate the age of the complaint.
+    
 <img width="1850" height="795" alt="image" src="https://github.com/user-attachments/assets/1d688c0d-b048-497b-ae3e-03998a13b549" />
 ### Read at below sentence ⬇️  
 
